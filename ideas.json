@@ -1,0 +1,10 @@
+{
+    "productive": {
+        "active": ["Wynieś coś do schowka", "Ugotuj coś", "Posprzątaj mieszkanie", "Pobaw się z psem", "Idź na siłkę"],
+        "potato": ["Przeszukaj Notion", "Programowanie: Jobbo", "Pogramowanie: Recipes", "Uzupełnij Monefy", "Pobaw się Hack The Box", "Programowanie: Cleaner Bot", "Cain's Jawbone"]
+    },
+    "relaxing": {
+        "active": ["Idź na spacer", "Idź na basen", "Poskacz sobie na VRze"],
+        "potato": ["Obejrzyj serial", "Odpal jakąś nową gierkę", "Ułóż puzzle", "Ułóż LEGO", "Sklejaj model", "Paint by numbers", "Poczytaj", "Kolorowanki"]
+    }
+}
